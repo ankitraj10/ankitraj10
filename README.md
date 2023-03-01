@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--z_y4wDUd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif)
+
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
